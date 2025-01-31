@@ -1,0 +1,1 @@
+This repository contains the solution for Lab 1 of the Artificial Intelligence course. The lab focuses on the basics and serves as an introduction to Python, covering fundamental data structures like tuples, dictionaries, lists, and more.
